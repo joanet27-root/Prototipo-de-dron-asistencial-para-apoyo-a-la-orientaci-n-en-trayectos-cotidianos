@@ -1,0 +1,2 @@
+# Prototipo-de-dron-asistencial-para-apoyo-a-la-orientaci-n-en-trayectos-cotidianos
+Se presenta un prototipo de dron asistencial para guiar a personas con discapacidad visual y cognitiva en entornos urbanos. El sistema utiliza una cámara y rutas predefinidas para facilitar la orientación, incluyendo un módulo de percepción visual capaz de detectar el estado de los semáforos para mejorar la autonomía y seguridad del usuario.
